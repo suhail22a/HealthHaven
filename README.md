@@ -1,6 +1,6 @@
 # Doctor Appointment Booking System
 
-This website was created as a college project for the Database Management System subject during MCA 1st Semester.
+This website was created as a appointment booking system.
 
 ## Features
 
@@ -17,12 +17,12 @@ This website was created as a college project for the Database Management System
 - **Password:** admin
 
 #### Patient Login:
-- **Email:** chandu@gmail.com
-- **Password:** chandu123
+- **Email:** sam@gmail.com
+- **Password:** sam123
 
 #### Doctor Login:
-- **Username:** Prateek
-- **Password:** prateek123
+- **Username:** Suhail
+- **Password:** suhail123
 
 ### User Registration
 
